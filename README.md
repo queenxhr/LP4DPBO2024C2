@@ -12,9 +12,12 @@ Aamiin
 
 # Desain Kelas (Diagram)
 ![Ratu Syahirah Khairunnisa_LP4DPBO2024C2 drawio](https://github.com/queenxhr/LP4DPBO2024C2/assets/135084798/77827443-53d5-465d-98dd-efcb69a58448)
+
+
 Penjelasan diagram : 
-Kelas Vehicle inheritance dengan kelas Car dan kelas Motorcycle karena memiliki kesamaan yaitu pada atribut dari kelas Vehicle.
-Kelas Garage dan ParkingLot memiliki hubungan composite dengan kelas Vehicle, karena saling berhubungan.
+- Kelas Vehicle inheritance dengan kelas Car dan kelas Motorcycle karena memiliki kesamaan yaitu pada atribut dari kelas Vehicle.
+- Kelas Garage dan ParkingLot memiliki hubungan composite dengan kelas Vehicle, karena saling berhubungan.
+
 Garage has a Vehicle and there are two types of vehicles, namely Car and Motorcycle.
 ParkingLot has a Vehicle and there are two types of vehicles, namely Car and Motorcycle.
 
