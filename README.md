@@ -11,6 +11,7 @@ Aamiin
 # Bahasa yang dibahas C++
 
 # Desain Kelas (Diagram)
+![Ratu Syahirah Khairunnisa_LP4DPBO2024C2 drawio](https://github.com/queenxhr/LP4DPBO2024C2/assets/135084798/77827443-53d5-465d-98dd-efcb69a58448)
 
 
 # Desain Program :
@@ -44,7 +45,6 @@ Tentu, saya akan menjelaskan setiap kelas dan hubungan inheritance serta composi
 
 Dengan demikian, hubungan inheritance terjadi antara kelas Car dan Motorcycle dengan kelas Vehicle, sedangkan hubungan composition terjadi antara kelas Garage dan ParkingLot dengan kelas Vehicle. Hal ini membantu dalam memodelkan hierarki dan struktur hubungan antar objek dalam program.
 # Penjelasan Alur Program:
-Tentu, berikut adalah penjelasan alur program dalam poin-poin yang mudah dimengerti:
 
 1. **Membuat Kendaraan**: 
    - Membuat kendaraan seperti mobil atau sepeda motor dengan atribut seperti plat nomor, merk, tahun produksi, dan warna.
@@ -61,8 +61,6 @@ Tentu, berikut adalah penjelasan alur program dalam poin-poin yang mudah dimenge
 4. **Menampilkan Informasi**:
    - Setelah semua kendaraan dimasukkan, program menampilkan informasi tentang tempat parkir dan garasi.
    - Ini termasuk jumlah kendaraan yang terparkir, kapasitas tempat parkir atau luas garasi, dan detail kendaraan yang terparkir di dalamnya.
-
-Dengan langkah-langkah ini, program mengelola kendaraan dan tempat penyimpanannya dengan jelas dan mudah dimengerti.
 
 # Dokumentasi
 <img width="571" alt="CODE CPP" src="https://github.com/queenxhr/LP4DPBO2024C2/assets/135084798/432c74e9-b4b3-4185-9421-000f795a3c3a">
